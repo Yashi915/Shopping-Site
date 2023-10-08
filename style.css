@@ -61,8 +61,8 @@ p {
 }
 
 button {
-    border-bottom: 2px white solid;
-    border-right: 2px white solid;
+    border-bottom: 2px orange solid;
+    border-right: 2px orange solid;
     padding: 5px;
     position: relative;
     left: 100px;
@@ -75,8 +75,8 @@ button {
     padding: 4px;
     border-radius: 3px;
     font-weight: 600;
-    border-bottom: 2px white solid;
-    border-right: 2px white solid;
+    border-bottom: 2px orange solid;
+    border-right: 2px orange solid;
     position: relative;
     top: 50px;
     left: 420px;
@@ -98,6 +98,7 @@ img {
     position: relative;
     top: 61px;
     left: 420px;
+    border: 2px orange solid;
 }
 
 #options {
@@ -148,8 +149,6 @@ button {
     font-size: 18px;
     font-weight: lighter;
     color: orange;
-    position: relative;
-    bottom: 100px;
 }
 
 pre.clothes {
