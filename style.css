@@ -1,0 +1,159 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    height: 100vh;
+    width: 100%;
+    background-color: black;
+    padding-top: 10px;
+}
+
+li {
+    float: left;
+    color: white;
+    font-size: 19px;
+    padding-left: 1px;
+    padding-right: 50px;
+    font-weight: 600;
+    margin-left: 5px;
+    cursor: default;
+}
+
+ul {
+    list-style-type: none;
+    border: 2px solid white;
+    width: 55.3%;
+    height: 30px;
+    padding: 10px;
+    padding-bottom: 30px;
+    position: relative;
+    top: 5px;
+    left: 340px;
+    border-radius: 20px;
+    background-color: #288e8e;
+}
+
+#list1 {
+    padding-left: 2px;
+}
+
+#cs {
+    padding-right: 4px;
+}
+
+p,
+pre,
+button {
+    color: white;
+    font-size: 22px;
+    text-align: center;
+    font-weight: bold;
+    cursor: default;
+}
+
+p {
+    position: relative;
+    top: 30px;
+
+}
+
+button {
+    border-bottom: 2px white solid;
+    border-right: 2px white solid;
+    padding: 5px;
+    position: relative;
+    left: 100px;
+
+}
+
+.category {
+    color: white;
+    background-color: #09b7b7;
+    padding: 4px;
+    border-radius: 3px;
+    font-weight: 600;
+    border-bottom: 2px white solid;
+    border-right: 2px white solid;
+    position: relative;
+    top: 50px;
+    left: 420px;
+}
+
+#special {
+    width: 30%;
+    font-weight: 700;
+    padding-left: 10px;
+    margin-left: 80px;
+}
+
+img {
+
+    width: 30px;
+    height: 28px;
+    position: absolute;
+    border-radius: 3px;
+    position: relative;
+    top: 61px;
+    left: 420px;
+}
+
+#options {
+    width: 60%;
+}
+
+#lang {
+    margin-left: 80px;
+}
+
+#target {
+    font-size: 35px;
+    position: relative;
+    top: 190px;
+}
+
+button {
+    background-color: #09b7b7;
+    border-radius: 3px;
+    position: relative;
+    left: 700px;
+    top: 200px;
+
+}
+
+#man {
+    position: relative;
+    right: 5px;
+    top: 300px;
+}
+
+.price1,
+.price2,
+.price3 {
+    border: 2px solid white;
+    width: 300px;
+    height: 100px;
+    float: left;
+    border-radius: 7px;
+    margin-top: 200px;
+    position: relative;
+    left: 240px;
+    top: 190px;
+    margin-left: 30px;
+}
+
+.rupees {
+    font-size: 18px;
+    font-weight: lighter;
+    color: orange;
+    position: relative;
+    bottom: 100px;
+}
+
+pre.clothes {
+    height: 6px;
+    padding-top: px;
+    padding-right: 20px;
+}
